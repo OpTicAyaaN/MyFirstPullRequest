@@ -11,7 +11,7 @@ title: Release notes
 
 ### Summary
 
-This release includes experimental provider actions, provider-managed state capabilities, and query support, along with diagnostics API updates and reliability improvements.
+This release includes experimental provider actions, provider-managed state capabilities, query support, and diagnostics API updates.
 
 ### New Features
 
