@@ -4,9 +4,9 @@ title: Release notes
 
 # Release notes
 
-## Version 0.1.0 (0001-01-01)
+## 0.1.0 - 0001-01-01
 
-- **Summary**: This release updates repository documentation for clearer navigation and attribution.
+- **Summary**: This release updates repository documentation for clear navigation and attribution.
 
 ### Additional Changes
 
