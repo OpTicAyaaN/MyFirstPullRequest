@@ -4,10 +4,12 @@ title: Release notes
 
 # Release notes
 
-{
-  "Additional Changes": [
-    "The README now provides a clearer orientation for new readers by explaining what the repository is for and what it contains.",
-    "The README now includes explicit author attribution so readers can quickly identify the project owner."
-  ]
-}
+## Version 0.1.0 (0001-01-01)
+
+- **Summary**: This release updates repository documentation for clearer navigation and attribution.
+
+### Additional Changes
+
+- Updated `README.md` to clarify repository purpose and contents.
+- Updated `README.md` to include author attribution.
 
