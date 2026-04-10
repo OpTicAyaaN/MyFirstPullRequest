@@ -14,5 +14,5 @@ This release includes documentation updates to clarify repository structure and 
 ### Additional Changes
 
 - Updated `README.md` to clarify repository contents and organization.
-- Added an `Author` section to `README.md` to identify the project maintainer.
+- Added an `Author` section to `README.md` to identify the repository maintainer.
 
