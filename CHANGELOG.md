@@ -11,5 +11,5 @@ title: Release notes
 ### Additional Changes
 
 - Updated `README.md` to provide a clear overview of repository purpose and contents.
-- Updated `README.md` to add an `Author` section crediting Ayaan Gill.
+- Updated `README.md` to include an `Author` section crediting Ayaan Gill.
 
