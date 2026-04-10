@@ -10,6 +10,6 @@ title: Release notes
 
 ### Additional Changes
 
-- Updated `README.md` to clarify repository purpose and contents.
+- Updated `README.md` to provide a clear overview of repository purpose and contents.
 - Updated `README.md` to include author attribution.
 
