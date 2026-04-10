@@ -14,6 +14,6 @@ This release includes documentation updates to clarify repository structure and 
 ### Additional Changes
 
 - Updated `README.md` to clarify repository contents and organization.
-- Added an `Author` section to `README.md` naming Ayaan Gill.
+- Added an `Author` section to `README.md` naming the repository maintainer, Ayaan Gill.
 
 
