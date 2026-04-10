@@ -14,11 +14,6 @@ This release includes documentation updates to clarify repository structure and 
 ### Additional Changes
 
 - Updated `README.md` to clarify repository contents and organization.
-- Added an `Author` section to `README.md` to identify the repository maintainer.
-{
-  "Additional Changes": [
-    "Added an Author section to the `README` to clearly document project ownership and attribution. The `README` now includes an `Author` section that names Ayaan Gill."
-  ]
-}
+- Added an `Author` section to `README.md` naming Ayaan Gill.
 
 
