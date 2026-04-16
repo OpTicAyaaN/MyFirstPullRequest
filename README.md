@@ -1,14 +1,10 @@
-# MyFirstPullRequest
+# cat-facts mcp documentation
 
-## Overview
+## overview
 
-This repository is used for assignments in `COGS 108`.
+This repository contains instructional documentation for `cat-facts-mcp`, an MCP (Model Context Protocol) server implemented in TypeScript.
 
-## Repository contents
+## documentation
 
-- `README.md`: Repository overview.
-- `AG24.txt`: Text file included at the repository root.
-
-## Author
-
-- Ayaan Gill
+- [Run the MCP server](./docs/running-the-server.md)
+- [MCP tools](./docs/tools.md)
