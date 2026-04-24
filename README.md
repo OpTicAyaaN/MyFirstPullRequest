@@ -7,11 +7,11 @@ This repository is used for assignments in `COGS 108`.
 ## Repository contents
 
 - `README.md`: Repository overview.
-- `AG24.txt`: Text file included at the repository root.
+- `js24.txt`: Text file included at the repository root.
 
 ## Author
 
-- John Smith
+- Ayaan Gill
 
 
 
@@ -37,11 +37,11 @@ This repository is used for assignments in `COGS 108`.
 ## Repository contents
 
 - `README.md`: Repository overview.
-- `AG24.txt`: Text file included at the repository root.
+- `js24.txt`: Text file included at the repository root.
 
 ## Author
 
-- John Smith
+- Ayaan Gill
 
 
 
@@ -67,11 +67,11 @@ This repository is used for assignments in `COGS 108`.
 ## Repository contents
 
 - `README.md`: Repository overview.
-- `AG24.txt`: Text file included at the repository root.
+- `js24.txt`: Text file included at the repository root.
 
 ## Author
 
-- John Smith
+- Ayaan Gill
 
 
 
@@ -97,11 +97,11 @@ This repository is used for assignments in `COGS 108`.
 ## Repository contents
 
 - `README.md`: Repository overview.
-- `AG24.txt`: Text file included at the repository root.
+- `js24.txt`: Text file included at the repository root.
 
 ## Author
 
-- John Smith
+- Ayaan Gill
 
 
 
