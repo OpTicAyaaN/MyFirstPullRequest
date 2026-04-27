@@ -9,6 +9,21 @@ This repository is used for assignments in `COGS 108`.
 - `README.md`: Repository overview.
 - `AG24.txt`: Text file included at the repository root.
 
+## Arbitrary List
+
+* **1**
+  - a
+  - b
+  - c
+* **2**
+  - d
+  - e
+  - f
+* **3**
+  - g
+  - h
+  - i
+
 ## Author
 
 - Ayaan Gill
