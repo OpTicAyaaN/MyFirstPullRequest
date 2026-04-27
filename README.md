@@ -15,10 +15,10 @@ This repository is used for assignments in `COGS 108`.
   - j
   - k
   - l
-* **5**
-  - m
-  - n
-  - o
+* **2**
+  - d
+  - e
+  - f
 * **6**
   - p
   - q
