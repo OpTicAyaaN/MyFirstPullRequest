@@ -13,7 +13,7 @@ This repository is used for assignments in `COGS 108`.
 
 * **4**
   - j
-  - k
+  - b
   - l
 * **2**
   - d
