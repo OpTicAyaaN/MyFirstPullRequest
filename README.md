@@ -26,7 +26,6 @@ This repository is used for assignments in `COGS 108`.
 
 ## Author
 
-- John Smith
 
 
 
@@ -55,6 +54,7 @@ This repository is used for assignments in `COGS 108`.
 
 ## Author
 
+- John Smith
 
 
 
