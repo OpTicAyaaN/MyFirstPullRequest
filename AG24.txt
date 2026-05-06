@@ -1,4 +1,4 @@
-## Repository contents
+## Repository Contents
 
 - `README.md`: Repository overview.
 - `AG24.txt`: Text file included at the repository root.
