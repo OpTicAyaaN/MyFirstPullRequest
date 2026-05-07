@@ -26,7 +26,6 @@ This repository is used for assignments in `COGS 108`.
 
 ## Author
 
-- Ayaan Gill
  - John Smith
 
 
@@ -57,7 +56,6 @@ This repository is used for assignments in `COGS 108`.
 
 ## Author
 
-- Ayaan Gill
  - John Smith
 
 
@@ -88,7 +86,6 @@ This repository is used for assignments in `COGS 108`.
 
 ## Author
 
-- Ayaan Gill
  - John Smith
 
 
@@ -119,7 +116,6 @@ This repository is used for assignments in `COGS 108`.
 
 ## Author
 
-- Ayaan Gill
  - John Smith
 
 
