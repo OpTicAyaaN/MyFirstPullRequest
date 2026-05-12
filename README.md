@@ -17,7 +17,7 @@ This repository is used for assignments in `COGS 108`.
   - c
 * **2**
   - d
-  - g
+  - e
   - f
 * **3**
   - g
