@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-Este repositorio se utiliza para las tareas de `COGS 108`.
+Este repositorio sirve para las tareas de `COGS 108`.
 
 ## Contenido del repositorio
 
@@ -47,7 +47,7 @@ Este repositorio se utiliza para las tareas de `COGS 108`.
 
 ## Descripción general
 
-Este repositorio se utiliza para las tareas de `COGS 108`.
+Este repositorio sirve para las tareas de `COGS 108`.
 
 ## Contenido del repositorio
 
@@ -77,7 +77,7 @@ Este repositorio se utiliza para las tareas de `COGS 108`.
 
 ## Descripción general
 
-Este repositorio se utiliza para las tareas de `COGS 108`.
+Este repositorio sirve para las tareas de `COGS 108`.
 
 ## Contenido del repositorio
 
@@ -107,7 +107,7 @@ Este repositorio se utiliza para las tareas de `COGS 108`.
 
 ## Descripción general
 
-Este repositorio se utiliza para las tareas de `COGS 108`.
+Este repositorio sirve para las tareas de `COGS 108`.
 
 ## Contenido del repositorio
 
