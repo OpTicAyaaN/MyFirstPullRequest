@@ -11,18 +11,18 @@ This repository is used for assignments in `COGS 108`.
 
 ## Arbitrary List
 
-* **1**
-  - a
+* **4**
+  - j
   - b
-  - c
+  - l
 * **2**
   - d
   - e
   - f
-* **3**
-  - g
-  - h
-  - i
+* **6**
+  - p
+  - q
+  - r
 
 ## Author
 
