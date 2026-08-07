@@ -1,15 +1,15 @@
 # MyFirstPullRequest
 
-## Overview
+## Descripción general
 
-This repository is used for assignments in `COGS 108`.
+Este repositorio se usa para tareas de `COGS 108`.
 
-## Repository contents
+## Contenido del repositorio
 
-- `README.md`: Repository overview.
-- `AG24.txt`: Text file included at the repository root.
+- `README.md`: Resumen del repositorio.
+- `AG24.txt`: Archivo de texto incluido en la raíz del repositorio.
 
-## Arbitrary List
+## Lista arbitraria
 
 * **1**
   - a
@@ -24,7 +24,7 @@ This repository is used for assignments in `COGS 108`.
   - h
   - i
 
-## Author
+## Autor
 
 - Ayaan Gill
 
